@@ -7,7 +7,7 @@ def addition(a, b):
 
 
 
-def subtraction(a, b):
+def substraction(a, b):
     result = a - b
     return result
 
