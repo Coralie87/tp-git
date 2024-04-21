@@ -1,3 +1,6 @@
+"""Module contenant les fonctions de calcul"""
+
+
 def addition(a, b):
     result = a + b
     return result
